@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
-  "name": "platformio-library-template",
+  "name": "Omni Power",
   "version": "0.1.0",
-  "description": "",
+  "description": "オムニホイールのパワーを計算",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NiiRoboKen/platformio-library-template.git"
+    "url": "https://github.com/NiiRoboKen/omni-power.git"
   },
-  "frameworks": "*",
-  "platforms": "*",
-  "headers": []
+  "frameworks": [],
+  "platforms": [],
+  "headers": ["omniPower.h"]
 }
